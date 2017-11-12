@@ -1,7 +1,5 @@
 " Plugins 
 call plug#begin('~/.vim/plugged')
-"Plug 'tpope/vim-repeat'
-"Plug 'ctrlpvim/ctrlp.vim'
 Plug 'davidhalter/jedi'
 Plug 'mhartington/oceanic-next'
 Plug 'motemen/git-vim'
